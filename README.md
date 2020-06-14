@@ -28,7 +28,7 @@ Frameworks:
 - Expo CLI
 - Axios
 
-**[Documentação do projeto]()**
+**[Documentação do projeto](https://github.com/EmanuelOSSouza/CoronaApp/blob/master/Docs/APP%20Covid.pdf)**
 
 
 **Autores**
